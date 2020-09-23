@@ -22,10 +22,10 @@
 * Create a new column named Date Created Conversion that will use this formula to convert the data contained within launched_at into Excel's Date format
 * Create a new column named Date Ended Conversion that will use this formula to convert the data contained within deadline into Excel's Date format
 * Create a new sheet with a pivot table with a column of state, rows of Date Created Conversion, values based on the count of state, and filters based on parent category and Years.
-* Now create a pivot chart graph that visualizes this new table.
+* Now create a pivot chart graph that visualizes this new table.  
 	 
 	 
-	 ![](./resources/Theater_Outcomes_vs_Launch.png)
+	 ![](./resources/Theater_Outcomes_vs_Launch.png). 
 	 
 
 
@@ -50,7 +50,7 @@
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
   
-  ![](./resources/Outcomes_vs_Goals.png)
+  ![](./resources/Outcomes_vs_Goals.png). 
 
   
 
