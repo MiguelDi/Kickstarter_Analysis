@@ -25,7 +25,7 @@
 * Now create a pivot chart graph that visualizes this new table.
 	 
 	 
-	 ![](./resources/Theater_Outcomes_vs_Launch.png). 
+	 ![](Resources/Theater_Outcomes_vs_Launch.png). 
 	 
 
 
@@ -50,7 +50,7 @@
   * Create a line chart which graphs the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
   
-  ![](./resources/Outcomes_vs_Goals.png). 
+  ![](Resources/Outcomes_vs_Goals.png).  
 
   
 
